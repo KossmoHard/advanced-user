@@ -1,0 +1,33 @@
+#content.narrowcolumn{
+  padding: 0px 60px;
+}
+
+ul#users{
+  list-style-type: none;
+}
+
+ul#users li{
+  margin: 0px 0px 20px 0px;
+}
+
+.entry-content #users h4{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+ul.page-numbers{
+  list-style-type: none;
+  margin: 0px;
+  line-height: 1;
+}
+
+ul.page-numbers li{
+  float: left;
+  margin: 0px;
+  line-height: 1;
+  margin: 0px 10px;
+}
+
+p.pages{
+  margin-bottom: 10px;
+}
